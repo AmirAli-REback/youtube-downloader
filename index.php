@@ -28,8 +28,6 @@ if (isset($_POST['link'])) {
 <head>
 	<title>اولین یوتوب دانلودر ایرانی</title>
 	<meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width"/>
-	<meta name="author" content="John Doe">
-	<meta itemprop="image" content="http://vijetahum.com/youtube/vineet.png" />
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="http://vijetahum.com/youtube/vineet.png" />
 	<meta property="og:title" content="Vineet's Video Downloader" />
