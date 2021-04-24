@@ -64,7 +64,7 @@ if (isset($_POST['link'])) {
 						</div>
 						<input type="text" class="form-control" name="link" id="basic-url" aria-describedby="basic-addon3" required="">
 						<div class="input-group-append">
-					    	<span class="input-group-text" id="basic-addon3" onclick="getElementById('form').submit()" style="cursor: pointer;">Get Link</span>
+					    	<span class="input-group-text" id="basic-addon3" onclick="getElementById('form').submit()" style="cursor: pointer;">لینک</span>
 					  	</div>
 					</div>
 				</form>
